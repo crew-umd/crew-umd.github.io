@@ -21,16 +21,14 @@
 title: Maryland Men's Crew
 email: crew.umd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/crew-umd.github.io/" # the subpath of your site, e.g. /blog
-url: "https://crew-umd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  The official website for the University of Maryland Men's Rowing Team. Schedules, rosters, results, and alumni information can all be found here.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+instagram_username: marylandrowing
 twitter_username: marylandrowing
-github_username:  crew-umd
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
