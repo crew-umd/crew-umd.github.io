@@ -30,7 +30,7 @@ twitter_username: marylandrowing
 github_username:  crew-umd
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
